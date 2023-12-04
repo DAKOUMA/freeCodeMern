@@ -1,0 +1,9 @@
+###
+
+POST http://localhost:5555/books
+
+{
+	"title": "Lord of the ring 'The Fellowship of the rings'",
+    "author": "J.R.R Tolkien 2",
+    "publishYear": 1951
+}
